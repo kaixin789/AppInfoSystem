@@ -1,4 +1,4 @@
-package cn.zjyy.appsys.dao.devuser.datadictionary;
+package cn.zjyy.appsys.dao.datadictionary;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 import cn.zjyy.appsys.pojo.DataDictionary;

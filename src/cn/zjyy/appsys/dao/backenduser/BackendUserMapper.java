@@ -1,4 +1,4 @@
-package cn.zjyy.appsys.dao.devuser.backenduser;
+package cn.zjyy.appsys.dao.backenduser;
 import org.apache.ibatis.annotations.Param;
 import cn.zjyy.appsys.pojo.BackendUser;
 public interface BackendUserMapper {

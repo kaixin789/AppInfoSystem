@@ -1,7 +1,8 @@
 package cn.zjyy.appsys.service.backend;
 import javax.annotation.Resource;
 import org.springframework.stereotype.Service;
-import cn.zjyy.appsys.dao.devuser.backenduser.BackendUserMapper;
+
+import cn.zjyy.appsys.dao.backenduser.BackendUserMapper;
 import cn.zjyy.appsys.pojo.BackendUser;;
 @Service
 public class BackendUserServiceImpl implements BackendUserService {

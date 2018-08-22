@@ -1,4 +1,4 @@
-package cn.zjyy.appsys.dao.devuser.devuser;
+package cn.zjyy.appsys.dao.devuser;
 import org.apache.ibatis.annotations.Param;
 import cn.zjyy.appsys.pojo.DevUser;
 public interface DevUserMapper {

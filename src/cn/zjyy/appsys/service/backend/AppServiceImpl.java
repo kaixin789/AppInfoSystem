@@ -3,7 +3,7 @@ import java.util.List;
 import javax.annotation.Resource;
 import org.springframework.stereotype.Service;
 
-import cn.zjyy.appsys.dao.devuser.appinfo.AppInfoMapper;
+import cn.zjyy.appsys.dao.appinfo.AppInfoMapper;
 import cn.zjyy.appsys.pojo.AppInfo;
 
 @Service

@@ -1,4 +1,4 @@
-package cn.zjyy.appsys.dao.devuser.appcategory;
+package cn.zjyy.appsys.dao.appcategory;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 import cn.zjyy.appsys.pojo.AppCategory;

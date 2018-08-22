@@ -3,7 +3,7 @@ package cn.zjyy.appsys.service.developer;
 import javax.annotation.Resource;
 import org.springframework.stereotype.Service;
 
-import cn.zjyy.appsys.dao.devuser.devuser.DevUserMapper;
+import cn.zjyy.appsys.dao.devuser.DevUserMapper;
 import cn.zjyy.appsys.pojo.DevUser;
 
 @Service

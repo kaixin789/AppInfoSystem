@@ -1,4 +1,4 @@
-package cn.zjyy.appsys.dao.devuser.appinfo;
+package cn.zjyy.appsys.dao.appinfo;
 
 import java.util.List;
 import org.apache.ibatis.annotations.Param;

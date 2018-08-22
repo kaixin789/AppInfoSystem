@@ -1,4 +1,4 @@
-package cn.zjyy.appsys.dao.devuser.appversion;
+package cn.zjyy.appsys.dao.appversion;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 import cn.zjyy.appsys.pojo.AppVersion;
